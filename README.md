@@ -15,7 +15,7 @@ However, Professor Peach has himself been arrested by the police for his lewd ac
 
 2)By using the MSP432, we can design the filters we need to do the descrambling and solve the main task digitally.
 
-3)In the end, using the analog components to build the analog circuits to support the speaker so that the audio output can be heard
+3)In the end, using the analog components to build the analog circuits to support the speaker so that the audio output can be heard.
 
 ## Team-member
 Jianlai Tian       
